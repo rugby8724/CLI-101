@@ -1,0 +1,14 @@
+#! /bin/bash
+cd ~/Desktop/DCFeb/homework
+mkdir my-projects
+cd my-projects
+mkdir assets
+mkdir css 
+cd css
+touch styles.css
+cd ..
+touch index.html
+mkdir js
+cd js
+touch scripts.js
+cd ..

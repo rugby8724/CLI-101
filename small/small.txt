@@ -1,0 +1,8 @@
+git status
+find status of git
+
+rm -rf ./Sample
+remove force remove sample directory
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+install content from Homebrew
